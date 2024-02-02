@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Folders
+include/
+
+# Vim files
+.*.un~
+*.*~
